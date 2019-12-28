@@ -5,4 +5,5 @@ def square_array(numbers)
     squared_numbers<<[counter]*numbers[counter]
     counter +=1
   end
+  squared_numbers
 end
